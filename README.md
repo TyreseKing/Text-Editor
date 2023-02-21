@@ -1,4 +1,4 @@
-# Text-Editor# Text Editer
+# Text-Editor
 
 ## Table of Contents
 * [Description](#description)
